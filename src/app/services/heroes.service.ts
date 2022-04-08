@@ -90,4 +90,4 @@ export class HeroesService {
         }
         return heroesArr;
     }
-}
+} 
